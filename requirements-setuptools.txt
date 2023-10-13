@@ -22,6 +22,7 @@ packaging==23.1
     # via
     #   -c tools/requirements\../../requirements.txt
     #   build
+    #   pyinstaller
     #   setuptools-scm
 pefile==2023.2.7
     # via pyinstaller
